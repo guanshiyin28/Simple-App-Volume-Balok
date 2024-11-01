@@ -14,8 +14,8 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :telescope: I’m working as a Graphic Designer and contributing to Amalia Foundation for Orphanage.
 
 - :seedling: Exploring about how world works.
-
-- :zap: In my free time, I teach about and read novel.
+- 
+- :zap: In my free time, I'm study about Tech and read novel.
 
 - :mailbox:How to reach me: <a href="">Instagram</a>
 
